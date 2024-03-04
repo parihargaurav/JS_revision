@@ -23,4 +23,4 @@ myFun();// First
 // First
 
 // Hoisting Concept
-//  functions and variables with var followers.are in hoisting 
+//  functions and variables with var follows hoisting 
