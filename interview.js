@@ -50,10 +50,11 @@
 // input w = rat, e = cat = false.
  
 
-// const isAnagram =function (s, t){
-//     s = s.split("").sort().join("");
-//     t = t.split("").sort().join("");
-//     return s ===t;
-// };
+const isAnagram =function (s, t){
+    s = s.split("").sort().join("");
+    t = t.split("").sort().join("");
+    return s ===t;
+};
+console.log(isAnagram(s  = "anagram", t = "nagaram")); // true
 
 
